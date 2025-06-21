@@ -34,15 +34,15 @@ This project contains three mini-sites built entirely with HTML. At the time, I 
 
 ## 📚 Included Projects
 
-- [Project 1 – Mac & Cheese Recipe](INSERT-REPO-LINK)
+- [Project 1 – Mac & Cheese Recipe](https://github.com/CodingWithJiro/beginner-portfolio-website-recipe)
 
   Practiced semantic elements and list structures with a recipe format.
 
-- [Project 2 – Table Tennis Leaderboard](INSERT-REPO-LINK)
+- [Project 2 – Table Tennis Leaderboard](https://github.com/CodingWithJiro/beginner-portfolio-website-table-tennis)
 
   Learned how to use HTML tables to present scores and rankings.
 
-- [Project 3 – HTML5 Forms](INSERT-REPO-LINK)
+- [Project 3 – HTML5 Forms](https://github.com/CodingWithJiro/beginner-portfolio-website-forms)
 
   Explored how HTML forms work and what kinds of inputs users can interact with.
 
