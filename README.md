@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5981cc85-227a-46fa-aa71-6a539e37636d/deploy-status)](https://beginner-portfolio-website.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/98a0db7f-4d35-4a44-b3bc-074643bff9e2/deploy-status)](https://beginner-portfolio-website-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%201-blue)
 
@@ -73,7 +73,7 @@ This project contains three mini-sites built entirely with HTML. At the time, I 
 
 ## 🌐 Live Demo
 
-Or you can check out the 👉 [live website here](INSERT-LIVE-LINK)
+Or you can check out the 👉 [live website here](https://beginner-portfolio-website-jiro.netlify.app/)
 
 ---
 
