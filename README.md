@@ -1,10 +1,16 @@
-# 📁 My First Frontend Portfolio
+# 💻 My First Frontend Portfolio
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5981cc85-227a-46fa-aa71-6a539e37636d/deploy-status)](https://beginner-portfolio-website.netlify.app/)
+![Status](https://img.shields.io/badge/status-complete-brightgreen)
+![Learning Path](https://img.shields.io/badge/learning%20path-month%201-blue)
 
-## ℹ️ A basic HTML portfolio website
+## ℹ️ A Basic HTML Portfolio Website
 
 ![Screenshot of the project](./screenshot.png)
 
@@ -14,7 +20,7 @@ A pure HTML website built as part of my earliest lessons in frontend development
 
 ## 🔍 Overview
 
-This project contains three mini-sites built entirely with HTML. At the time, I had no experience with **frontend web development** — I didn't even know what an _html_ was — but this helped me understand the fundamentals of:
+This project contains three mini-sites built entirely with HTML. At the time, I had no experience with **frontend web development**. This helped me understand the fundamentals of:
 
 - Creating multi-page websites
 - Using semantic HTML tags like `<main>`, `<section>`, `<header>`, and `<footer>`
@@ -26,15 +32,15 @@ This project contains three mini-sites built entirely with HTML. At the time, I 
 
 ## 📚 Included Projects
 
-- [Project 1 – Mac & Cheese Recipe](./HTML5%20Projects/Project%201)
+- [Project 1 – Mac & Cheese Recipe](INSERT-REPO-LINK)
 
   Practiced semantic elements and list structures with a recipe format.
 
-- [Project 2 – Table Tennis Leaderboard](./HTML5%20Projects/Project%202)
+- [Project 2 – Table Tennis Leaderboard](INSERT-REPO-LINK)
 
   Learned how to use HTML tables to present scores and rankings.
 
-- [Project 3 – HTML5 Forms](./HTML5%20Projects/Project%203)
+- [Project 3 – HTML5 Forms](INSERT-REPO-LINK)
 
   Explored how HTML forms work and what kinds of inputs users can interact with.
 
@@ -52,20 +58,22 @@ This project contains three mini-sites built entirely with HTML. At the time, I 
 ## 🛠️ Tech Used
 
 - HTML5
+- Git
+- GitHub
+- Netlify
 
 ---
 
 ## 🚀 How to Run
 
 1. Clone the repository
-2. Navigate to this folder
-3. Open `index.html` in your browser
+2. Open `index.html` in your browser
 
 ---
 
 ## 🌐 Live Demo
 
-Or you can check out the 👉 [live website here](https://beginner-portfolio-website.netlify.app/)
+Or you can check out the 👉 [live website here](INSERT-LIVE-LINK)
 
 ---
 
