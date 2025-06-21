@@ -5,6 +5,8 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
+![Beginner Project](https://img.shields.io/badge/Beginner%20Project-25D366?style=for-the-badge)
+![Semantic HTML](https://img.shields.io/badge/Semantic%20HTML-ff9800?style=for-the-badge)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/98a0db7f-4d35-4a44-b3bc-074643bff9e2/deploy-status)](https://beginner-portfolio-website-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
@@ -83,4 +85,4 @@ Created by **Elmar Chavez**
 
 🗓️ Month/Year: **April 2025**
 
-📚 Journey: **First month** of learning _frontend web development_.
+📚 Journey: **1<sup>st</sup> month** of learning _frontend web development_.
