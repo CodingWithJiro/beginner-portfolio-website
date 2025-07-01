@@ -11,6 +11,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/98a0db7f-4d35-4a44-b3bc-074643bff9e2/deploy-status)](https://beginner-portfolio-website-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%201-blue)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.beginner-portfolio-website&left_text=repo%20views)
 
 ## ℹ️ A Basic HTML Portfolio Website
 
