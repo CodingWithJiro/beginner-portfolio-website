@@ -1,4 +1,4 @@
-# 💻 My First Frontend Portfolio
+# My First Frontend Portfolio
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
@@ -13,7 +13,7 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%201-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.beginner-portfolio-website&left_text=repo%20views)
 
-## ℹ️ A Basic HTML Portfolio Website
+## A Basic HTML Portfolio Website
 
 ![Screenshot of the project](./screenshot.png)
 
@@ -21,7 +21,7 @@ A pure HTML website built as part of my earliest lessons in frontend development
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This project contains three mini-sites built entirely with HTML. At the time, I had no experience with **frontend web development**. This helped me understand the fundamentals of:
 
@@ -33,7 +33,7 @@ This project contains three mini-sites built entirely with HTML. At the time, I 
 
 ---
 
-## 📚 Included Projects
+## Included Projects
 
 - [Project 1 – Mac & Cheese Recipe](https://github.com/CodingWithJiro/beginner-portfolio-website-recipe)
 
@@ -49,7 +49,7 @@ This project contains three mini-sites built entirely with HTML. At the time, I 
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - The importance of semantic HTML
 - How to organize content visually and structurally
@@ -58,7 +58,7 @@ This project contains three mini-sites built entirely with HTML. At the time, I 
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - Git
@@ -67,23 +67,23 @@ This project contains three mini-sites built entirely with HTML. At the time, I 
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://beginner-portfolio-website-jiro.netlify.app/)
+Or you can check out the **[live website here](https://beginner-portfolio-website-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **April 2025**
+Month/Year: **April 2025**
 
-📚 Journey: **1<sup>st</sup> month** of learning _frontend web development_.
+Journey: **1<sup>st</sup> month** of learning _frontend web development_.
